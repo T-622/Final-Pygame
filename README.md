@@ -10,6 +10,15 @@ This Project Includes Elements Of:
 - Math Operations
 - Timer Usage
 - Frame Maniuplation
+- PGS4A (Android .apk file to be added soon!)
+- Possibly Threading
+
+To-Do:
+- Android Compilation
+- More Images
+- More Effeciant Frame Handler
+- CPU Hardware Tick Counter
+
 
 Directives (Directly From Assignment Details):
   - Create a final project that incorporates all of the elements we've discussed in the course thus far (variables, math, decisions, methods/procedures, arrays, graphics, loops, input/output, documentation).
